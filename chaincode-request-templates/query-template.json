@@ -4,12 +4,12 @@
   "params": {
       "type": 1,
       "chaincodeID":{
-          "name":"$NAME"
+          "name":"NAME"
       },
       "ctorMsg": {
          "function":"query",
-         "args":["$PARTY"]
+         "args":["PARTY"]
       }
   },
-  "id": $ID
+  "id": ID
 }

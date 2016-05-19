@@ -8,8 +8,8 @@
       },
       "ctorMsg": {
           "function":"init",
-          "args":["$PARTY_A", "$AMOUNT_A", "$PARTY_B", "$AMOUNT_B"]
+          "args":["PARTY_A", "AMOUNT_A", "PARTY_B", "AMOUNT_B"]
       }
   },
-  "id": $ID
+  "id": ID
 }
