@@ -11,5 +11,5 @@
          "args":["PARTY_A", "PARTY_B", "AMOUNT"]
       }
   },
-  "id": ID
+  "id": TRANSACTION_ID
 }
